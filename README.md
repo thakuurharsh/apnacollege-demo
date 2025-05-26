@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my first git repo.
 </br>
-Author - harsh thakur
+Author - harsh (apna college)
